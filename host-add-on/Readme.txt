@@ -1,0 +1,1 @@
+Refer to https://www.prepar3d.com/SDKv4/sdk/simconnect_api/c_simconnect_projects.html for installing the add-on.
